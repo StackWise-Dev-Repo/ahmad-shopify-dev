@@ -1,8 +1,8 @@
 <h1 align="center" style="font-size: 44px; font-weight: 700;">
-Hi, I'm <span style="color: #FF10EF;">Amad Ali</span>
+Hi, I'm <span style="color: #FF10EF;">Amad | StackWise-Dev</span>
 </h1>
 <h4 align="center" >Shopify Theme & App Developer | MERN Stack | Youtuber</h4>
-<h5 align="center" style="font-size: 18px; color: #FF10EF; text-align: center; margin-bottom: 1.5rem">ahmad.shopify.dev@gmail.com | <em>+92316-5001019</em></h5>
+<h5 align="center" style="font-size: 18px; color: #FF10EF; text-align: center; margin-bottom: 1.5rem">stackwise.dev.repo@gmail.com | <em>+92316-5001019</em></h5>
 
 ---
 
